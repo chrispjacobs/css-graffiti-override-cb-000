@@ -11,3 +11,7 @@
 div[class="slick wicked"] {
   display: none;
 }
+
+.parent #tag-4 {
+  display: none;
+}
